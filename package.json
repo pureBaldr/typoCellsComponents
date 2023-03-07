@@ -1,0 +1,23 @@
+{
+  "name": "@dadmor/pure-baldr-typo-cells-components",
+  "version": "0.0.1",
+  "description": "Taiwind UiKit typo cells components",
+  "license": "MIT",
+  "repository": "pureBaldr/typoCellsComponents",
+  "keywords": [
+    "light",
+    "less 1 kb",
+    "npm",
+    "package",
+    "react",
+    "uikit",
+    "tailwind",
+    "typescript",
+    "typography components"
+  ],
+  "devDependencies": {
+    "@dadmor/pure-baldr-core": "latest",
+    "@dadmor/pure-baldr-typo-components": "latest",
+    "@types/react": "^18.0.28"
+  }
+}
