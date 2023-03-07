@@ -1,2 +1,1 @@
-# typoComponents
 # typoCellsComponents
